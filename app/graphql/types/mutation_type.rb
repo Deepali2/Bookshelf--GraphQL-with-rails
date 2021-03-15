@@ -5,4 +5,5 @@ class Types::MutationType < Types::BaseObject
   def test_field
     "Hello World"
   end
+
 end
